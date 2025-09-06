@@ -132,6 +132,7 @@ HTTPのリクエストメソッドにおける`DELETE`リクエストは、リ�
     <input type="submit" value="カートに追加">
     </form>
     <!-- 以下を追加 -->
+    <br>
     <a href="{{ route('cart.index') }}">カート一覧へ</a>
     <!-- ここまで -->
 </body>
