@@ -1,3 +1,6 @@
+---
+sort: 4
+---
 # まとめ
 
 本章までで、Laravelを使って、CRUD機能(Create（作成）、Read（読み取り）、Update（更新）、Delete（削除）)を実装する方法を学びました。
